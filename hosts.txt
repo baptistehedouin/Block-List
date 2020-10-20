@@ -1,0 +1,12 @@
+https://secure.fanboy.co.nz/r/fanboy-ultimate.txt
+https://easylist.to/easylist/easylist.txt
+https://urlhaus.abuse.ch/downloads/text/
+https://easylist.to/easylist/easyprivacy.txt
+https://easylist-downloads.adblockplus.org/easylist-cookie.txt
+https://raw.githubusercontent.com/liamja/Prebake/master/obtrusive.txt
+https://pgl.yoyo.org/adservers/serverlist.php?hostformat=hosts&showintro=1&mimetype=plaintext&_=4
+https://blokada.org/blocklists/ddgtrackerradar/standard/hosts.txt
+https://raw.githubusercontent.com/jerryn70/GoodbyeAds/master/Hosts/GoodbyeAds.txt
+https://blokada.org/mirror/v5/energized/blu/hosts.txt
+https://raw.githubusercontent.com/AdguardTeam/AdguardFilters/master/AnnoyancesFilter/sections/mobile-app.txt
+https://raw.githubusercontent.com/uBlockOrigin/uAssets/master/filters/filters.txt
